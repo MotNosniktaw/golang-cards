@@ -7,5 +7,5 @@ type Card struct {
 }
 
 type Deck struct {
-	cards []card
+	cards []Card
 }
