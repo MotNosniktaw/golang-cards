@@ -1,4 +1,4 @@
-package golangcards
+package cards
 
 type card struct {
 	suit  string
