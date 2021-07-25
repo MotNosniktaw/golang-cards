@@ -9,7 +9,3 @@ type card struct {
 type deck struct {
 	cards []card
 }
-
-func main() {
-	return
-}
