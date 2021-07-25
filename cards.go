@@ -1,11 +1,11 @@
 package cards
 
-type card struct {
+type Card struct {
 	suit  string
 	name  string
 	value int
 }
 
-type deck struct {
+type Deck struct {
 	cards []card
 }
